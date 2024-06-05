@@ -12,13 +12,13 @@ import com.launchdarkly.sdk.server.*;
 public class GreetingResource {
 
     LDClient client = new LDClient("sdk-key-123abc");
-    /* LDContext context = LDContext.builder("context-key-123abc")
+     LDContext context = LDContext.builder("context-key-123abc")
             .name("Sandy")
             .build();
 
     String stringFlagValue = client.stringVariation("flag-key-123abc", context, "disabled");
 
-*/
+
 
 
     @GET
