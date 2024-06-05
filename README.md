@@ -2,6 +2,13 @@
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework and the LaunchDarkly Java SDK
 
+Please create a String flag simmilar to the following
+
+
+![LaunchDarkly Screenshot](Screenshot.png?raw=true "LaunchDarkly Screenshot")
+
+https://docs.launchdarkly.com/home/flags/new
+
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
 
 ## Running the application in dev mode
